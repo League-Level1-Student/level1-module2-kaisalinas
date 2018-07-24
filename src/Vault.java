@@ -1,6 +1,6 @@
 
 public class Vault {
-	int secretCode = 1492;
+	int secretCode = 141592;
 public static void main(String[] args) {
 	Vault v = new Vault();
 	JamesBond JB = new JamesBond();
